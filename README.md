@@ -14,6 +14,7 @@ Neste relatório podemos observar:
 * Desempenho de vendas por marca
 * Desempenho de faturamento por continente
 
+
 ## Aula 02
 
 ## Aula 03
