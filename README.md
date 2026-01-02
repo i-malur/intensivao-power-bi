@@ -16,6 +16,27 @@ Neste relatório podemos observar:
 
 
 ## Aula 02
+* Alterando o tipo dos dados
+* Removendo linhas vazias
+* Realizando operações matemáticas e criando novas colunas
+* Transformando dados
+* Dividindo colunas
+* Criando medidas
+* Adicionando plano de fundo e estilizando o relatório
+* Usando os sites: [My Color Space](https://mycolor.space/) e [Color HEX](https://www.color-hex.com/)
+* Criando segmento de dados
+* Estilizando o relatório com ícones
+
+Neste relatório podemos observar:
+* Horas produtivas
+* Horas paradas
+* Quantidade de produtos aprovados
+* Quantidade de produtos rejeitados
+* Disponibilidade => porcentagem de horário trabalhado (horas produzidas / horas trabalhadas)
+* % Qualidade => porcentagem de produtos aprovados
+* Total de produtos aprovados por mês
+* Segmentação com filtro de funcionários
+* Segmentação com filtro de meses
 
 ## Aula 03
 
