@@ -1,5 +1,5 @@
 # Intensivão de Power BI
-Entre os dias 15/12/2025 a 18/12/2025, tive 4 aulas criando 4 dashboards diferentes no PoweBI
+Entre os dias 15/12/2025 a 18/12/2025, tive 4 aulas criando 4 dashboards diferentes no PowerBI
 
 ## Aula 01
 * Instalando o Power BI
