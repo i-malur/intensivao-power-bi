@@ -1,5 +1,24 @@
 # Intensivão de Power BI
-Entre os dias 15/12/2025 a 18/12/2025, tive 4 aulas criando 4 dashboards diferentes no PowerBI
+Entre os dias 15/12/2025 a 18/12/2025, tive 4 aulas criando 4 dashboards diferentes no PowerBI pela [Hastag Treinamentos]('https://www.hashtagtreinamentos.com/')  
+
+
+<p align="center">
+  <a href="" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="32" alt="Power BI"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="32" alt="Microsoft"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/SEU_USUARIO/](https://www.linkedin.com/in/maria-luiza-fernandes-871a65238" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="32" alt="LinkedIn"/>
+  </a>
+</p>
+
+
+
+
 
 ## Aula 01 - Dashboard de Faturamento
 * Instalando o Power BI
