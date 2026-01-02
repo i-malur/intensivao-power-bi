@@ -39,5 +39,18 @@ Neste relatório podemos observar:
 * Segmentação com filtro de meses
 
 ## Aula 03
+* Separando dados em colunas
+* Criando medidas
+* Estilizando relatório com plano de fundo
+* Utilizando Sparkline para criar gráficos com a porcentagem de contratações
+* Utilizando Árvore Hierárquica
+* Criando Tooltip
+
+Neste relatório podemos observar:
+* % de contratações
+* Funcionários: ativos, desligados e % rotatividade
+* Funcionários ativos e sálario por cidade
+* Árvore Hierárquica de funcionários ativos por setor e cargo
+* Tooltip por cidade com informações de funcionários ativos, somatório de salários e porcentagem de horas extras por cargo 
 
 ## Aula 04
